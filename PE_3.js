@@ -6,6 +6,8 @@ function main(n) {
 
 }
 
+//Recursively divides the number by each integer starting at 2 until the number equals 1
+//Returns the divisor
 function recurse(num, div) {
 
 	if(num == 1) return div;
