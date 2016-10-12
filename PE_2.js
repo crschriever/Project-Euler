@@ -1,8 +1,6 @@
 //Sum of even Fibonacci numbers beneath N
 
-function main() {
-
-    var n = 1000; //The number under which to find even Fibonacci numbers 
+function main(n) {
     
     var esum = 2;
     

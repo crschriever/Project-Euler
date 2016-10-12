@@ -1,9 +1,7 @@
 
 //Find the sum of all the multiples of 3 or 5 below N.
 
-function main() {
-
-    var n = 1000; //The number under which to take the sum of all multiples of 3 or 5
+function main(n) {
     
     var c = 3;
     var sum = 0;
